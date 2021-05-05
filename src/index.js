@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 // import App from './App';
 // import Product from './product';
 //import ShoppingCart from './shoppingcar';
 import {BrowserRouter} from 'react-router-dom'
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
-
+import "../node_modules/@fortawesome/fontawesome-free/css/all.css";
+import "./index.css";
 import MyApp from './MyApp';
 
 
